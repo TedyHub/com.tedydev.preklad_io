@@ -1,0 +1,27 @@
+{
+  "name": "com.tedydev.preklad_io",
+  "version": "1.0.0",
+  "displayName": "Preklad.io Translate API service",
+  "description": "The package provides easy intergration unity project with preklad.io translation API https://preklad.io",
+  "unity": "2021.1",
+  "documentationUrl": "https://preklad.io/docs/",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json" : "3.2.1"
+  },
+  "keywords": [
+    "translate",
+    "ondemand",
+    "api"
+  ],
+  "author": {
+    "name": "Tedy Development",
+    "email": "info@tedydev.com",
+    "url": "https://tedydev.com"
+  },
+  "samples" : [
+    {
+      "displayName" : "Sample Scene",
+      "path": "Samples/Scenes"
+    }
+  ]
+}
