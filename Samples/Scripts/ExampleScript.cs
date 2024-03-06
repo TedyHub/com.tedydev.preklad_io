@@ -37,8 +37,6 @@ public class ExampleScript : MonoBehaviour
 
         }
 
-        APIClient.Instance.Get
-
     }
 
 
