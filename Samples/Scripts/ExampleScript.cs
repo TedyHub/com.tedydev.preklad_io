@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+using Tedydev.PrekladIO;
 
 public class ExampleScript : MonoBehaviour
 {
@@ -35,6 +36,8 @@ public class ExampleScript : MonoBehaviour
             outputPanel.text = result["outputLabel"];
 
         }
+
+        APIClient.Instance.Get
 
     }
 
