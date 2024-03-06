@@ -1,6 +1,6 @@
 {
   "name": "com.tedydev.preklad_io",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Preklad.io Translate API service",
   "description": "The package provides easy intergration unity project with preklad.io translation API https://preklad.io",
   "unity": "2021.1",
@@ -22,6 +22,10 @@
     {
       "displayName" : "Sample Scene",
       "path": "Samples/Scenes"
+    },
+    {
+      "displayName" : "Example Script",
+      "path": "Samples/Scripts"
     }
   ]
 }

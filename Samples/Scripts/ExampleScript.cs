@@ -26,7 +26,7 @@ public class ExampleScript : MonoBehaviour
         };
 
 
-        // translate dictionaty
+        // translate dictionary
         var result  = await APIClient.Instance.LoadDictionary(translateDictionary, "en", "es");
         if (result.Count > 0)
         {
